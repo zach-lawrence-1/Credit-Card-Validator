@@ -3,12 +3,12 @@
 Uses the mod10/luhn algorithm to detect if an entered credit card number is valid
 
 ## Time complexity analysis
-'''void validate()''' O(1)
+```void validate()``` O(1)
 
-'''void cardBreakup()''' O(1)
+```void cardBreakup()``` O(1)
 If the length of the card number was allowed to be n bits, then this algorithm would be O(n)
 
-'''void cardCheck()''' O(1)
+```void cardCheck()``` O(1)
 If the length of the card number was allowed to be n bits, then this algorithm would be O(n)
 
-'''void cardType()''' O(1)
+```void cardType()``` O(1)
